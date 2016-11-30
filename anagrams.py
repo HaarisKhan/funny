@@ -1,5 +1,4 @@
 import sys
-from itertools import permutations
 
 def setup():
     if len(sys.argv) > 1:
